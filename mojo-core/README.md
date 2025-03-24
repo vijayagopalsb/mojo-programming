@@ -7,9 +7,11 @@ It is built on **MLIR** (Multi-Level Intermediate Representation) for getting op
 ## Key Features
 
 - **Python compatible:** Mojo leverages Python syntax with extra keywords (fn, var, let)
-- **Zero cost abstractions:** Optimized for hardware like CPUs, GPUs, and TPUs. <span style="font-size: 10px;">(*Note: GPU: Graphics Processing Unit, TPU: Tensor Processing Unit*)</small>
+- **Zero cost abstractions:** Optimized for hardware like CPUs, GPUs, and TPUs.
 - **Auto-tuning:** Compiler optimizes for your hardware.
 - **Memory safety:** Borrow checker (like Rust) for safe low-level code.
+
+<small>(*Note: GPU: Graphics Processing Unit, TPU: Tensor Processing Unit*)</small>
 
 ## Setup Mojo
 
