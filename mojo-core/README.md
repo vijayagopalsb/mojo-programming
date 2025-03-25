@@ -1,11 +1,12 @@
+
 # Mojo Core Overview
 
 Mojo is a high-performance programming language and it is designed for AI/ML and System Programming.
 It combines Python syntax and usability, and of course with C++ level speed and performance.
 It is built on **MLIR** (Multi-Level Intermediate Representation) for getting optimum hardware acceleration.
 
-<a id="key_feature"></a>
-## Key Features [🔗](#key_feature)
+
+## Key Featurers
 
 - **Python compatible:** Mojo leverages Python syntax with extra keywords (fn, var, let)
 - **Zero cost abstractions:** Optimized for hardware like CPUs, GPUs, and TPUs.
@@ -14,8 +15,8 @@ It is built on **MLIR** (Multi-Level Intermediate Representation) for getting op
 
 <small>(*Note: GPU: Graphics Processing Unit, TPU: Tensor Processing Unit*)</small>
 
-<a id="mojo_setup"></a>
-## Setup Mojo  [🔗](#mojo_setup) 
+
+## Setup Mojo
 
 #### Prerequisites
 
